@@ -1,0 +1,37 @@
+{
+  "ui.date": "Date",
+  "ui.dark": "Dark",
+  "ui.close": "Close",
+  "ui.owner": "Owner",
+  "ui.email": "Email",
+  "ui.genre": "Genre",
+  "ui.light": "Light",
+  "ui.search": "Search",
+  "ui.genres": "Genres",
+  "ui.explore": "Explore",
+  "ui.podcast": "Podcast",
+  "ui.duration": "Duration",
+  "ui.language": "Language",
+  "ui.settings": "Settings",
+  "ui.playlists": "Playlists",
+  "ui.playingNow": "Playing now",
+  "ui.podcastEpisode": "Episode",
+  "ui.playEpisode": "Play episode",
+
+  "message.comingSoon": "Comming soon",
+  "message.nothingFound": "Nothing found",
+  "message.nothingToDisplay": "Nothing to display",
+  "message.somethingWentWrong": "Something went wrong",
+
+  "search.searchSomething": "Search something",
+
+  "explore.topPodcasts": "Top podcasts",
+  "explore.topEpisodes": "Top episodes",
+  "explore.popularPodcasts": "Popular podcasts",
+  "explore.popularEpisodes": "Popular episodes",
+
+  "podcast.lastEpisodes": "Last episodes",
+
+  "settings.location": "Location",
+  "settings.appearence": "Appearence"
+}

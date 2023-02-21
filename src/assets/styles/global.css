@@ -1,0 +1,9 @@
+@import './fonts.css';
+
+body {
+  overflow-y: scroll;
+}
+
+* {
+  scrollbar-width: thin;
+}
