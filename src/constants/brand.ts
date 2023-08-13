@@ -1,1 +1,1 @@
-export const BRAND = { NAME: 'Playcast.' };
+export const BRAND = { NAME: 'Pod Portal.' };
