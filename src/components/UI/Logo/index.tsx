@@ -16,11 +16,11 @@ export function Logo({ short, indicator, ...props }: LogoProps) {
   return (
     <Title {...props} className={cx(props.className, classes.logo)}>
       <Text component="span" className={classes.play}>
-        {short ? 'P' : 'Play'}
+        {short ? 'P' : 'Pod'}
       </Text>
 
       <Text component="span" className={classes.cast}>
-        {short ? 'c.' : 'cast.'}
+        {short ? 'c.' : 'Portal.'}
       </Text>
 
       {!short && indicator && (
